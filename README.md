@@ -4,7 +4,7 @@ This repository contains the source code for the website documenting the [Geolog
 
 Please see the documentation's online location:
 
-* <http://nicholascar.com/gsq-supermodel/>
+* <https://geological-survey-of-queensland.github.io/gsq-supermodel/>
 
 ## License & Rights
 
